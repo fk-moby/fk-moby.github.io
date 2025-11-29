@@ -2,7 +2,7 @@
   "name": "mObywatel",
   "theme_color": "#e5e7eb",
   "background_color": "#e5e7eb",
-  "display": "fullscreen",
+  "display": "standalone",
   "orientation": "portrait",
   "scope": "/",
   "start_url": "https://fk-moby.github.io",
@@ -12,4 +12,5 @@
             "sizes": "512x512"
         }
     ]
+
 }
