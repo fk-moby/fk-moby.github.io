@@ -3,7 +3,7 @@
   "theme_color": "#e5e7eb",
   "background_color": "#e5e7eb",
   "display": "standalone",
-  "orientation": "portrait",
+  "orientation": "fullscreen",
   "scope": "/",
   "start_url": "https://fk-moby.github.io",
   "icons": [
@@ -14,3 +14,4 @@
     ]
 
 }
+
