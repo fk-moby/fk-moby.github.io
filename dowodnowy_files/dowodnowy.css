@@ -3,9 +3,13 @@ body {
     letter-spacing: 0.2px;
     overscroll-behavior-y: contain;
 }
-@media screen{
+@media (max-width: 768px) {
   ::-webkit-scrollbar {
-      -webkit-appearance: none;
+    display: none;
+  }
+  body {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
   }
 }
 body::-webkit-scrollbar {
