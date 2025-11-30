@@ -3,13 +3,13 @@ body {
     letter-spacing: 0.2px;
     overscroll-behavior-y: contain;
 }
-.::-webkit-scrollbar {
+body::-webkit-scrollbar {
   width: 0;
   height: 0;
 }
 
 /* Optional: hide scrollbar buttons */
-.::-webkit-scrollbar-button {
+body::-webkit-scrollbar-button {
   display: none;
 }
 
